@@ -1,0 +1,13 @@
+digrafo
+9
+cuatro,dos
+dos,tres
+tres,cuatro
+cuatro,cinco
+cinco,seis
+seis,uno
+uno,cinco
+seis,nueve
+nueve,siete
+siete,ocho
+ocho,nueve
